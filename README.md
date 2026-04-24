@@ -16,3 +16,4 @@ The study originates from a Curricular Research Project carried out at Leiden Un
 The scripts used to generate the figures in the paper are available in this repository and based on the following python packages:
 - astromet: https://github.com/zpenoyre/astromet.py.git
 - gaiascanlaw: https://github.com/zpenoyre/gaiascanlaw.git
+- zplots: https://github.com/zpenoyre/zplots.git
