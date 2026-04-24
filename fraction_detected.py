@@ -23,7 +23,7 @@ for j in range(4):
     tb[j]=e_yr
     print(f"DR{j+1}: {e_yr:.2f}")
 
-#creating the probability distribution function
+#creating the probability distribution
 nbins = 48
 logPbins = np.linspace(-3, 5, nbins + 1) 
 Pmids = 10**(0.5 * (logPbins[:-1] + logPbins[1:]))
