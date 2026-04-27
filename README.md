@@ -13,13 +13,12 @@ The study originates from a Curricular Research Project carried out at Leiden Un
 - The extended time baseline significantly **enhances** the detected binary population across the **main sequence** and among **young white dwarves**. 
 
 # Document
-The scripts used to generate the figures in the paper are available in this repository and based on the following python packages:
+Selected Python scripts used to generate the main figures in the paper are available in this repository and based on the following python packages:
 - astromet: https://github.com/zpenoyre/astromet.py.git
 - gaiascanlaw: https://github.com/zpenoyre/gaiascanlaw.git
 - zplots: https://github.com/zpenoyre/zplots.git
 
 # Citation
-
 If you wish to use this code in any way, please cite:
 
 '''
