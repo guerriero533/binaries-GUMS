@@ -22,9 +22,11 @@ The scripts used to generate the figures in the paper are available in this repo
 
 If you wish to use this code in any way, please cite:
 
-_@article{guerriero2025nominal,
+'''
+@article{guerriero2025nominal,
   title={Nominal thresholds for good astrometric fits, and prospects for binary detectability, for the full extended$\backslash$textit $\{$Gaia$\}$ mission},
   author={Guerriero, F and Penoyre, Z and Brown, AGA},
   journal={arXiv preprint arXiv:2511.02476},
   year={2025}
-}_
+}
+'''
