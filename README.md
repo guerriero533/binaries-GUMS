@@ -3,7 +3,7 @@ MNRAS Paper, authors: F. Guerriero, Z. Penoyre, A. G. A. Brown (2026)
 DOI: https://doi.org/10.1093/mnras/stag654
 
 ## Overview
-The study originates from a Curricular Research Project carried out at Leiden University, supervised by Dr. Penoyre and Prof. Brown (2024), which key results and full thesis pdf can be found at the corresponding repository (_guerriero533/binaries-GUMS/binaries-fullthesis_). In this paper, we use simulated binaries from the Gaia Universe Model to examine the long-term astrometric behaviour of single stars and stellar binaries. We calculate nominal upper limits on the spread of goodness of astrometric fits for well-behaved single stars. These limits help identify poor astrometric fits and flag potential binary systems.
+The study originates from a Curricular Research Project carried out at Leiden University, supervised by Dr. Penoyre and Prof. Brown (2024), which key results and full thesis pdf can be found at the corresponding repository (_guerriero533/binaries-GUMS/tenyr_Gaia-project_). In this paper, we use simulated binaries from the Gaia Universe Model to examine the long-term astrometric behaviour of single stars and stellar binaries. We calculate nominal upper limits on the spread of goodness of astrometric fits for well-behaved single stars. These limits help identify poor astrometric fits and flag potential binary systems.
 
 ## Key Results
 - For the Re-normalized Unit Weight Error (RUWE) parameter, we predict thresholds of **RUWE_lim_DR4 = 1.15** and **RUWE_lim_DR5 = 1.11**
